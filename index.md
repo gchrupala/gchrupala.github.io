@@ -1,3 +1,6 @@
+---
+title: Grzegorz Chrupała
+---
 ![Grzegorz](me.jpg)
 
 Grzegorz Chrupała
