@@ -1,0 +1,17 @@
+@inproceedings{carreras-marquez-chrupala:2004:CONLL,
+	address = {Boston, Massachusetts, USA},
+	author = {Carreras, Xavier   and Màrquez, Lluís   and Chrupała, Grzegorz  },
+	booktitle = {HLT-NAACL 2004 Workshop: Eighth Conference on Computational Natural Language Learning (CoNLL-2004)},
+	citeulike-article-id = {500559},
+	editor = {Ng, Hwee  T.  and Riloff, Ellen  },
+	keywords = {machine-learning nlp semantic-role-labelling},
+	pages = {106--109},
+	priority = {2},
+	publisher = {Association for Computational Linguistics},
+	title = {Hierarchical Recognition of Propositional Arguments with Perceptrons},
+	year = {2004}
+}
+
+
+
+
