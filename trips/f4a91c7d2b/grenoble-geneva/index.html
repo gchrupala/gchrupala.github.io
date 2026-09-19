@@ -134,13 +134,20 @@ svg.map {
 .key { width: 0.8rem; height: 0.8rem; flex: none; }
 
 /* A portrait map is too tall to sit above the text, so on a wide screen it
-   stays in view beside it, sized to the window. */
+   stays in view beside it. Its column is as wide as the map's own proportions
+   allow within the window height, so the drawing never letterboxes. */
+.main { --map-aspect: 0.341; }
 .main.tall .mapwrap { max-width: 24rem; margin: 0 auto; }
+.main.tall svg.map { width: 100%; height: auto; }
 @media (min-width: 60rem) {
   .main.tall { grid-template-columns: auto minmax(0, 1fr); gap: 3rem; align-items: start; }
-  .main.tall .mapwrap { position: sticky; top: 1rem; margin: 0; }
-  .main.tall svg.map { height: calc(100vh - 5rem); width: auto; max-width: 24rem; }
-  .main.tall .legend { max-width: 20rem; }
+  .main.tall .mapwrap {
+    position: sticky;
+    top: 1rem;
+    margin: 0;
+    width: min(24rem, calc((100vh - 7rem) * var(--map-aspect)));
+  }
+  .main.tall .legend { max-width: 24rem; }
 }
 
 /* ---------- the plan itself ---------- */
