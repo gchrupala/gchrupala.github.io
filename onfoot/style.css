@@ -46,3 +46,6 @@ ol.notes p { display: inline; margin: 0; }
 ul.posts { list-style: none; padding: 0; }
 ul.posts li { margin-bottom: 0.8em; }
 ul.posts .meta { display: block; margin: 0; }
+.tagline { font-style: italic; margin: 0 0 2.5em; }
+footer { color: var(--muted); font-size: 0.85em; margin-top: 4em; }
+footer a { color: var(--muted); }
