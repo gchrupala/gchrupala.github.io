@@ -1,0 +1,13 @@
+# Jekyll settings for GitHub Pages
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  toc_levels: "2"
+
+# Jekyll skips dot-folders by default; this one is needed for Bluesky handle verification
+include:
+  - .well-known
+
+exclude:
+  - README.md

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% if page.title %}{{ page.title }} · {% endif %}Grzegorz Chrupała</title>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'EB Garamond', serif;
+    font-size: 130%;
+    max-width: 800px;
+    margin: auto;
+    padding: 1em;
+  }
+  abbr[title] { cursor: help }
+  img { border: 0; border-radius: 10px }
+  h2 { margin-top: 3em; }
+  h2.inline, h2.inline + p { display: inline; }
+  .portrait { float: right; margin: 1em 3em 1em 1em; width: 10em; }
+  .ipa { font-family: Gentium, 'Gentium Plus', GentiumAlt, 'DejaVu Sans', 'Segoe UI', 'Lucida Grande', 'Charis SIL', 'Doulos SIL', 'Lucida Sans Unicode', sans-serif; }
+  .ipa audio { height: 1em; }
+  .aside { color: gray; margin: 2em 0 3em; }
+  .research { margin-bottom: 2em; }
+  #toc {
+    border: 1px dashed black;
+    border-radius: 5px;
+    max-width: 15em;
+    padding: 0.5em;
+  }
+  #toc ul { list-style-type: none; }
+</style>
+</head>
+<body>
+{{ content }}
+</body>
+</html>
