@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap');
+
+:root {
+  --text: #222;
+  --muted: #777;
+  --link: #2a5a8a;
+  --bg: #fffefb;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --text: #ddd; --muted: #999; --link: #8ab4dd; --bg: #1a1a1a; }
+}
+
+body {
+  font-family: 'EB Garamond', Garamond, Georgia, serif;
+  font-size: 21px;
+  line-height: 1.55;
+  color: var(--text);
+  background: var(--bg);
+  max-width: 36em;
+  margin: 0 auto;
+  padding: 2em 1em 5em;
+}
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+nav { font-size: 0.9em; margin-bottom: 3em; }
+nav a { color: var(--muted); }
+
+h1 { font-weight: 500; font-size: 2em; line-height: 1.15; margin: 0 0 0.2em; }
+h2 { font-weight: 500; font-size: 1.35em; margin: 2.2em 0 0.5em; }
+h3 { font-weight: 500; font-style: italic; font-size: 1.1em; margin: 1.8em 0 0.4em; }
+header { margin-bottom: 2.5em; }
+.subtitle { font-style: italic; font-size: 1.2em; margin: 0; }
+.meta { color: var(--muted); font-size: 0.9em; margin: 0.3em 0 0; }
+
+p { margin: 0 0 1em; hyphens: auto; }
+
+figure { margin: 2em 0; }
+figure img { display: block; width: 100%; height: auto; }
+figcaption { color: var(--muted); font-size: 0.85em; font-style: italic; text-align: center; margin-top: 0.5em; }
+
+sup { line-height: 0; }
+ol.notes { font-size: 0.85em; border-top: 1px solid var(--muted); padding-top: 1em; margin-top: 3em; }
+ol.notes p { display: inline; margin: 0; }
+
+ul.posts { list-style: none; padding: 0; }
+ul.posts li { margin-bottom: 0.8em; }
+ul.posts .meta { display: block; margin: 0; }
