@@ -47,7 +47,7 @@ See full [bio](#bio).
 <div class="aside" markdown="1">
 In my free time I like
 [reading](https://www.goodreads.com/review/list/8777275-grzegorz-chrupa-a?shelf=read&sort=date_added),
-taking [photos](https://photos.app.goo.gl/cDzGiN2tAC1S3csG9),
+taking [photos](https://photos.app.goo.gl/sq61bk2Q3TQSLJML8),
 walking [[pl](https://pieszo.chrupala.me/#relacje){:hreflang="pl"}] [[en](https://onfoot.chrupala.me/#travel-reports){:hreflang="en"}]
 and writing [[pl](https://pieszo.chrupala.me/#opowiadania){:hreflang="pl"}] [[en](https://onfoot.chrupala.me/#stories){:hreflang="en"}].
 </div>
