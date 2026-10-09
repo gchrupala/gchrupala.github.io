@@ -53,7 +53,7 @@ and writing [[pl](https://pieszo.chrupala.me/#opowiadania){:hreflang="pl"}] [[en
 </div>
 
 <div class="research" markdown="1">
-<h2 class="inline" id="research">Research</h2> by my team focuses on:
+<h2>Research</h2>
 
 - Learning language the way young children do: from speech, vision and
   interaction, without written text or explicit instruction.
