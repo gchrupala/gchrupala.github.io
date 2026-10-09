@@ -53,26 +53,15 @@ and writing [[pl](https://pieszo.chrupala.me/#opowiadania){:hreflang="pl"}] [[en
 </div>
 
 <div class="research" markdown="1">
-<h2 class="inline" id="research">Research</h2> by my team focuses on
-computational approaches to multimodal communication. We take
-inspiration from the ease which young children show for picking up
-languages they are exposed to with little effort and no explicit
-instruction. The information they rely on is messy and unstructured,
-yet it is rich and multimodal, including speech and gestures, visual
-and auditory stimuli, and interaction with other people. In contrast,
-the typical way computers learn language is by reading billions of
-words of written text.
+<h2 class="inline" id="research">Research</h2> by my team focuses on:
 
-We work on enabling machines to access rich data in multiple
-modalities and find systematic connections between them as a way to
-learn language in a more natural and data-efficient manner.
+- Learning language the way young children do: from speech, vision and
+  interaction, without written text or explicit instruction.
+- Understanding what neural models of spoken language learn: phonology,
+  lexical tone, syntax and the use of context.
+- Developing methods for analyzing and interpreting neural models of
+  language, and testing how reliable these methods are.
 
-We explore the limits of human-like learning, aiming to teach
-computers to deal not only with the world's largest languages, but
-also with those with little written material, or no writing system at all.
-
-We also develop, apply, and evaluate techniques for understanding
-computations in deep learning architectures.
 </div>
 
 <div id="toc" markdown="1">
