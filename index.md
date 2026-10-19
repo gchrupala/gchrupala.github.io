@@ -193,6 +193,8 @@ PO Box 90153\\
 5000 LE Tilburg\\
 The Netherlands
 
+**Internships and PhD positions:** Please do not contact me about internships or PhD positions unless you are responding to an explicitly listed opening. I will not respond to other enquiries.
+
 Bluesky: [@grzegorz.chrupala.me](https://bsky.app/profile/grzegorz.chrupala.me)\\
 Web: [grzegorz.chrupala.me](https://grzegorz.chrupala.me)\\
 Email: grzegorz@chrupala.me
