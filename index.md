@@ -71,14 +71,15 @@ and writing [[pl](https://pieszo.chrupala.me/#opowiadania){:hreflang="pl"}] [[en
 
 ## News
 
+- Paper accepted to TACL: [Post-hoc Disentanglement of Textual and Acoustic Features in Pre-trained Speech Encoders](https://arxiv.org/abs/2410.03037) by Hosein Mohebbi, Grzegorz Chrupała, Willem Zuidema, Afra Alishahi and Ivan Titov.
 - New preprint: [The rise and evolution of a referential code in populations of bee-like agents](https://arxiv.org/abs/2608.25779).
-- Paper accepted to EMNLP 2026: [Beyond Decodability: Reconstructing Language Model Representations with an Encoding Probe](https://arxiv.org/abs/2605.00607) by Gaofei Shen, Martijn Bentum, Tom Lentz, Afra Alishahi and Grzegorz Chrupała.
-- Paper accepted to LREC: [Mechanistic Interpretability Meets Cognitive Linguistics: Modelling Locative Image Schemas in the Circuit Framework](https://lrec.elra.info/lrec2026-main-885) by Mattia Proietti, Afra Alishahi, Grzegorz Chrupała and Alessandro Lenci.
+- Paper published at EMNLP 2026: [Beyond Decodability: Reconstructing Language Model Representations with an Encoding Probe](https://aclanthology.org/2026.emnlp-main.654/) by Gaofei Shen, Martijn Bentum, Tom Lentz, Afra Alishahi and Grzegorz Chrupała.
+- Paper accepted to LREC: [Mechanistic Interpretability Meets Cognitive Linguistics: Modelling Locative Image Schemas in the Circuit Framework](https://aclanthology.org/2026.lrec-1.885/) by Mattia Proietti, Afra Alishahi, Grzegorz Chrupała and Alessandro Lenci.
 - Gabriele Sarti, whose work I co-supervised with Arianna Bisazza and Malvina Nissim, defended his [PhD thesis](https://research.rug.nl/en/publications/from-insights-to-impact-actionable-interpretability-for-neural-ma/), and has thus become the first InDeep PhD.
 - Paper accepted to TACL: [QE4PE: Word-level Quality Estimation for Human Post-Editing](https://doi.org/10.1162/TACL.a.46).
 - We taught a [tutorial on Interpretability Techniques for Speech Models at Interspeech 2025](https://interpretingdl.github.io/speech-interpretability-tutorial/).
 - Paper published at Interspeech 2025: [On the reliability of feature attribution methods for speech classification](https://www.isca-archive.org/interspeech_2025/shen25b_interspeech.html).
-- Hosein presented [Posthoc Disentanglement of Textual and Acoustic Features in Self-Supervised Speech Encoders](https://actionable-interpretability.github.io/posters/poster_AIW2025%20-%20Hosein%20Mohebbi.pdf) at an ICML workshop on actionable interpretability.
+- Hosein presented [Posthoc Disentanglement of Textual and Acoustic Features in Self-Supervised Speech Encoders](https://arxiv.org/abs/2410.03037) at an ICML workshop on actionable interpretability.
 - I have joined the board of the Dutch [Open Speech Technology Foundation](https://openspraaktechnologie.org/).
 - I am publicity co-chair for Interspeech 2025.
 - I am an action editor for TACL.
@@ -93,7 +94,7 @@ and writing [[pl](https://pieszo.chrupala.me/#opowiadania){:hreflang="pl"}] [[en
 ### Alumni
 
 - [Gabriele Sarti](https://gsarti.com/). PhD thesis: [From Insights to Impact: Actionable Interpretability for Neural Machine Translation](https://research.rug.nl/en/publications/from-insights-to-impact-actionable-interpretability-for-neural-ma/).
-- [Chris Emmery](https://cmry.github.io/). PhD thesis: [User-Centered Security in Natural Language Processing](https://arxiv.org/abs/2301.04230).
+- [Chris Emmery](https://cmry.nl/). PhD thesis: [User-Centered Security in Natural Language Processing](https://arxiv.org/abs/2301.04230).
 - [Bertrand Higy](https://www.linkedin.com/in/bertrandhigy/?locale=en_US). Postdoc, Understanding visually grounded spoken language via multi-tasking.
 - Patrick Bos and Christiaan Meijer. E-science engineers, Understanding visually grounded spoken language via multi-tasking.
 - [Ákos Kádár](https://kadarakos.github.io/). PhD thesis: [Learning Visually Grounded and Multilingual Representations](https://kadarakos.github.io/assets/dissertation.pdf).
@@ -101,10 +102,10 @@ and writing [[pl](https://pieszo.chrupala.me/#opowiadania){:hreflang="pl"}] [[en
 ## Publications
 
 For the complete list of publications check:
-[Google Scholar](http://scholar.google.com/citations?user=p6m63xoAAAAJ&sortby=pubdate) |
+[Google Scholar](https://scholar.google.com/citations?user=p6m63xoAAAAJ&sortby=pubdate) |
 [Semantic Scholar](https://www.semanticscholar.org/author/Grzegorz-Chrupala/2756960?q=&sort=influence&ae=false) |
 [DBLP](https://dblp.org/pers/hd/c/Chrupala:Grzegorz) |
-[ACL Anthology](https://www.aclweb.org/anthology/people/g/grzegorz-chrupala/) |
+[ACL Anthology](https://aclanthology.org/people/grzegorz-chrupala/) |
 [ORCID](https://orcid.org/0000-0001-9498-6912)
 
 ### Selected papers
@@ -138,7 +139,7 @@ For the complete list of publications check:
    of language in a model of visually grounded speech signal. In
    Proceedings of the 55th Annual Meeting of the Association for
    Computational Linguistics (Volume 1: Long Papers) (pp. 613–622).\\
-   [Paper](http://dx.doi.org/10.18653/v1/P17-1057) |
+   [Paper](https://doi.org/10.18653/v1/P17-1057) |
    [Code](https://github.com/gchrupala/visually-grounded-speech)
 
 ## Selected Talks
