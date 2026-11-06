@@ -89,7 +89,8 @@ and writing [[pl](https://pieszo.chrupala.me/#opowiadania){:hreflang="pl"}] [[en
 - [Gaofei Shen](https://www.gaofeishen.com/). PhD candidate, Interpretability techniques for spoken language models.
 - [Hosein Mohebbi](https://hmohebbi.github.io/). PhD candidate, Analyzing and interpreting deep neural models of language.
 - [Lisa Lepp](https://research.tilburguniversity.edu/en/persons/lisa-lepp). PhD candidate, Machine Translation for sign and spoken languages.
-- [Céline Angonin](https://research.tilburguniversity.edu/en/persons/c%C3%A9line-angonin). PhD candidate, bioacoustics.
+- [Céline Angonin](https://research.tilburguniversity.edu/en/persons/c%C3%A9line-angonin). PhD candidate, Massively multi-task deep learning for wildlife sound monitoring.
+- [Roberto Alessandri](https://research.tilburguniversity.edu/en/persons/roberto-alessandri). PhD candidate, AI-enhanced sound event localization and detection in microphone arrays.
 
 ### Alumni
 
